@@ -1,2 +1,2 @@
 # aprendendo-go
-Aprendendo | GO
+Aprendendo | GO LANG

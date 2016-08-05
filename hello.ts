@@ -1,7 +1,7 @@
 class Startup {
     public static main(): number {
         console.log('Hello World');
-        return 1;
+        return 0;
     }
 }
 
